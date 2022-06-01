@@ -1,9 +1,7 @@
-# CV Markdown
-
-## Sergey Ladorski
-_____
+# Sergey Ladorski
+===
 [![Sergey Ladorski](https://avatars.githubusercontent.com/u/87638252?v=4)](https://github.com/sergeyladorski)
-_____
+===
 
 ## Contacts
 - phone:  ***+375297222536***
@@ -11,7 +9,7 @@ _____
 - telegram: ***https://t.me/sergeyladorski***
 - LinkedIn: ***https://www.linkedin.com/in/sergeyladorski***
 - RS School discrord server nickname: ***Sergey Ladorski @sergeyladorski***
-_____
+===
 
 ## Hard skills
 * Frontend
@@ -20,7 +18,7 @@ _____
     - Node.js, Express.js, MongoDB;
 * Additional
     - ES Lint, Git, Figma, Postman, VS Code, NPM, Webpack.
-_____
+===
 
 ## Work experience
 * Frontend Developer (Apprenticeship)
@@ -29,6 +27,7 @@ _____
 * Control Room Operator
     at Belarussian Steel Works
     May 2012 - Present.
+===
 
 ## Portfolio:
 * Mesto (React + Node.js)
@@ -41,6 +40,7 @@ _____
     - https://github.com/sergeyladorski/russian-travel;
 * How to learn
     - https://github.com/sergeyladorski/how-to-learn.
+===
 
 ## Education
 * Standardization, Metrology and Informational Technology
@@ -49,11 +49,13 @@ _____
 * Metallurgical Production and Material Processing
     at Zhlobin Metallurgical College
     Sep 2008 - Jun 2012.
+===
 
 ## Languages
 * English - B2;
 * Belarussian - Native;
 * Russian - Native.
+===
 
 ## About
 I'm a junior frontend developer.
