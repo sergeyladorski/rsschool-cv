@@ -1,6 +1,7 @@
 # Sergey Ladorski
 ## Junior Frontend Developer
-[![Sergey Ladorski](https://avatars.githubusercontent.com/u/87638252?v=4)](https://github.com/sergeyladorski)
+[![Sergey Ladorski](https://avatars.githubusercontent.com/u/87638252?v=4)](https://github.com/sergeyladorski)  
+
 ===
 
 ## Contact information
@@ -8,7 +9,8 @@
 - E-mail:    *sergeyladorski@gmail.com*
 - Telegram: *[sergeyladorski](https://t.me/sergeyladorski)*
 - LinkedIn: *[sergeyladorski](https://www.linkedin.com/in/sergeyladorski)*
-- RS School discrord server nickname: *Sergey Ladorski @sergeyladorski*
+- RS School discrord server nickname: *Sergey Ladorski @sergeyladorski*  
+
 ===
 
 ## Hard skills
@@ -17,7 +19,8 @@
 * Backend
     - Node.js, Express.js, MongoDB;
 * Additional
-    - ES Lint, Git, Figma, Postman, VS Code, NPM, Webpack.
+    - ES Lint, Git, Figma, Postman, VS Code, NPM, Webpack.  
+
 ===
 
 ## Work experience
@@ -26,7 +29,8 @@
     Jul 2021 - Apr 2022;
 * Control Room Operator
     at Belarussian Steel Works
-    May 2012 - Present.
+    May 2012 - Present.  
+
 ===
 
 ## Portfolio:
@@ -39,7 +43,8 @@
 * Russian travel
     - https://github.com/sergeyladorski/russian-travel;
 * How to learn
-    - https://github.com/sergeyladorski/how-to-learn.
+    - https://github.com/sergeyladorski/how-to-learn.  
+
 ===
 
 ## Education
@@ -48,14 +53,15 @@
     Sep 2012 - Jan 2017;
 * Metallurgical Production and Material Processing
     at Zhlobin Metallurgical College
-    Sep 2008 - Jun 2012.
+    Sep 2008 - Jun 2012.  
+
 ===
 
 ## Languages
 * `English` - [EFSET English Certificate](https://www.efset.org/cert/bn49LC)  
 C1 Reading, Listening; B2 Writing, Speaking;
 * `Belarussian` - Native;
-* `Russian` - Native.
+* `Russian` - Native.  
 ===
 
 ## About
