@@ -4,10 +4,10 @@
 ===
 
 ## Contact information
-- phone:  +375297222536
-- email:    sergeyladorski@gmail.com
-- telegram: (sergeyladorski)[https://t.me/sergeyladorski]
-- LinkedIn: (sergeyladorski)[https://www.linkedin.com/in/sergeyladorski]
+- Phone:  *+375297222536*
+- E-mail:    *sergeyladorski@gmail.com*
+- Telegram: *[sergeyladorski](https://t.me/sergeyladorski)*
+- LinkedIn: *[sergeyladorski](https://www.linkedin.com/in/sergeyladorski)*
 - RS School discrord server nickname: *Sergey Ladorski @sergeyladorski*
 ===
 
@@ -52,8 +52,8 @@
 ===
 
 ## Languages
-* `English` - EFSET English Certificate 70/100 (C1 Advanced)
-[![Sergey Ladorski](https://www.efset.org/cert/bn49LC)](https://www.efset.org/cert/bn49LC)
+* `English` -  C1 Reading, Listening; B2 Writing, Speaking;
+[!EFSET English Certificate 70/100](https://cdn.efset.org/efset-widget/img/certificate_70.png)](https://www.efset.org/cert/bn49LC)
 * `Belarussian` - Native;
 * `Russian` - Native.
 ===
