@@ -2,7 +2,7 @@
 ## Junior Frontend Developer
 [![Sergey Ladorski](https://avatars.githubusercontent.com/u/87638252?v=4)](https://github.com/sergeyladorski)  
 
-===
+_____
 
 ## Contact information
 - Phone:  *+375297222536*
@@ -11,7 +11,7 @@
 - LinkedIn: *[sergeyladorski](https://www.linkedin.com/in/sergeyladorski)*
 - RS School discrord server nickname: *Sergey Ladorski @sergeyladorski*  
 
-===
+_____
 
 ## Hard skills
 * Frontend
@@ -21,7 +21,7 @@
 * Additional
     - ES Lint, Git, Figma, Postman, VS Code, NPM, Webpack.  
 
-===
+_____
 
 ## Work experience
 * Frontend Developer (Apprenticeship)
@@ -31,7 +31,7 @@
     at Belarussian Steel Works
     May 2012 - Present.  
 
-===
+_____
 
 ## Portfolio:
 * Mesto (React + Node.js)
@@ -45,7 +45,7 @@
 * How to learn
     - https://github.com/sergeyladorski/how-to-learn.  
 
-===
+_____
 
 ## Education
 * Standardization, Metrology and Informational Technology
@@ -55,14 +55,15 @@
     at Zhlobin Metallurgical College
     Sep 2008 - Jun 2012.  
 
-===
+_____
 
 ## Languages
 * `English` - [EFSET English Certificate](https://www.efset.org/cert/bn49LC)  
 C1 Reading, Listening; B2 Writing, Speaking;
 * `Belarussian` - Native;
 * `Russian` - Native.  
-===
+
+_____
 
 ## About
 I'm a junior frontend developer.  
