@@ -1,8 +1,9 @@
 # Sergey Ladorski
+## Junior Frontend Developer
 [![Sergey Ladorski](https://avatars.githubusercontent.com/u/87638252?v=4)](https://github.com/sergeyladorski)
 ===
 
-## Contacts
+## Contact information
 - phone:  +375297222536
 - email:    sergeyladorski@gmail.com
 - telegram: (sergeyladorski)[https://t.me/sergeyladorski]
@@ -51,7 +52,8 @@
 ===
 
 ## Languages
-* `English` - B2;
+* `English` - EFSET English Certificate 70/100 (C1 Advanced)
+[![Sergey Ladorski](https://www.efset.org/cert/bn49LC)](https://www.efset.org/cert/bn49LC)
 * `Belarussian` - Native;
 * `Russian` - Native.
 ===
