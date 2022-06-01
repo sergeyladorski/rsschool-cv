@@ -13,7 +13,7 @@ _____
 
 _____
 
-## Hard skills
+## Skills
 * Frontend
     - HTML, CSS, JavaScript, React.js, Redux;
 * Backend
@@ -33,6 +33,16 @@ _____
 
 _____
 
+## Education
+* Standardization, Metrology and Informational Technology
+    at Belarussian National Technical University
+    Sep 2012 - Jan 2017;
+* Metallurgical Production and Material Processing
+    at Zhlobin Metallurgical College
+    Sep 2008 - Jun 2012.  
+
+_____
+
 ## Portfolio:
 * Mesto (React + Node.js)
     - https://github.com/sergeyladorski/react-mesto-api-full;
@@ -44,16 +54,6 @@ _____
     - https://github.com/sergeyladorski/russian-travel;
 * How to learn
     - https://github.com/sergeyladorski/how-to-learn.  
-
-_____
-
-## Education
-* Standardization, Metrology and Informational Technology
-    at Belarussian National Technical University
-    Sep 2012 - Jan 2017;
-* Metallurgical Production and Material Processing
-    at Zhlobin Metallurgical College
-    Sep 2008 - Jun 2012.  
 
 _____
 
