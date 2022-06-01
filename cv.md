@@ -53,7 +53,7 @@
 
 ## Languages
 * `English` -  C1 Reading, Listening; B2 Writing, Speaking;
-[![EFSET English Certificate 70/100](https://www.efset.org/cert/bn49LC)](https://www.efset.org/cert/bn49LC)
+[![EFSET English Certificate 70/100](https://cdn.efset.org/efset-widget/img/certificate_70.png)](https://www.efset.org/cert/bn49LC)
 
 
 * `Belarussian` - Native;
