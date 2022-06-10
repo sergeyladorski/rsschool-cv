@@ -1,13 +1,391 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./style.css">
-    <title>HTML, CSS & Git Basics</title>
-</head>
-<body>
-    
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="CV Frontend Developer" />
+    <meta
+      name="keywords"
+      content="HTML, CSS, JavaScript, RS School, Stage 0, CV"
+    />
+    <meta name="author" content="Sergey Laadorski" />
+    <link rel="stylesheet"  href="./styles/index.css" />
+    <title>Sergey Ladorski | Frontend Developer</title>
+  </head>
+  <body class="body">
+    <header class="header">
+      <nav class="navigation">
+        <ul class="list list_navigation">
+          <li class="navigation__list__item">
+            <a class="link_header link" href="#contact-info">
+              Contact information
+            </a>
+          </li>
+          <li class="navigation__list__item">
+            <a class="link_header link" href="#skills">Skills</a>
+          </li>
+          <li class="navigation__list__item">
+            <a class="link_header link" href="#languages">Languages</a>
+          </li>
+          <li class="navigation__list__item">
+            <a class="link_header link" href="#experience">Experience</a>
+          </li>
+          <li class="navigation__list__item">
+            <a class="link_header link" href="#education">Education</a>
+          </li>
+          <li class="navigation__list__item">
+            <a class="link_header link" href="#code">Code</a>
+          </li>
+          <li class="navigation__list__item">
+            <a class="link_header link" href="#portfolio">Portfolio</a>
+          </li>
+          <li class="navigation__list__item">
+            <a class="link_header link" href="#about-me">About me</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+
+    <div class="content">
+      <aside class="aside">
+        <img class="aside__photo" src="./images/my-photo.jpeg" alt="my photo" />
+
+        <section class="section section_aside" id="contact-info">
+          <h2 class="section-title_aside">Contact information</h2>
+
+          <ul class="list list_aside">
+            <li class="list__item">
+              <img
+                class="icon"
+                src="./images/icons/location.svg"
+                alt="location"
+              />
+              <a
+                class="link_aside link"
+                href="https://goo.gl/maps/8VYXz4hJrqxtPVxr5"
+                >Zhlobin, Belarus</a
+              >
+            </li>
+            <li class="list__item">
+              <img class="icon" src="./images/icons/phone.svg" alt="phone" />
+              <a
+                class="link_aside link"
+                href="tel:+375297222536"
+              >
+                +375297222536
+              </a>
+            </li>
+            <li class="list__item">
+              <img class="icon" src="./images/icons/mail.svg" alt="email" />
+              <a
+                class="link_aside link"
+                href="mailto:sergeyladorski@gmail.com"
+                >sergeyladorski@gmail.com</a
+              >
+            </li>
+            <li class="list__item">
+              <img
+                class="icon"
+                src="./images/icons/telegram.svg"
+                alt="telegram"
+              />
+              <a
+                class="link_aside link"
+                href="https://t.me/sergeyladorski"
+                >sergeyladorski</a
+              >
+            </li>
+            <li class="list__item">
+              <img
+                class="icon"
+                src="./images/icons/linkedin.svg"
+                alt="linkedin"
+              />
+              <a
+                class="link_aside link"
+                href="https://www.linkedin.com/in/sergeyladorski"
+              >
+                sergeyladorski
+              </a>
+            </li>
+            <li class="list__item">
+              <img
+                class="icon"
+                src="./images/icons/discord.svg"
+                alt="discord"
+              />
+              <a
+                class="link_aside link"
+                href="https://discordapp.com/users/983633785100853309"
+              >
+                Sergey Ladorski @sergeyladorski
+              </a>
+            </li>
+          </ul>
+        </section>
+
+        <section class="section section_aside" id="skills">
+          <h2 class="section-title_aside">Hard skills</h2>
+          <ul class="list list_aside list_hard-skills">
+            <li class="list__item">
+              <p class="text">HTML5</p>
+            </li>
+            <li class="list__item">
+              <p class="text">CSS3</p>
+            </li>
+            <li class="list__item">
+              <p class="text">BEM</p>
+            </li>
+            <li class="list__item">
+              <p class="text">JavaScript</p>
+            </li>
+            <li class="list__item">
+              <p class="text">React.js</p>
+            </li>
+            <li class="list__item">
+              <p class="text">Redux</p>
+            </li>
+            <li class="list__item">
+              <p class="text">ESLint</p>
+            </li>
+            <li class="list__item">
+              <p class="text">Git</p>
+            </li>
+            <li class="list__item">
+              <p class="text">Webpack</p>
+            </li>
+            <li class="list__item">
+              <p class="text">Node.js</p>
+            </li>
+            <li class="list__item">
+              <p class="text">npm</p>
+            </li>
+            <li class="list__item">
+              <p class="text">Express.js</p>
+            </li>
+            <li class="list__item">
+              <p class="text">MongoDB</p>
+            </li>
+            <li class="list__item">
+              <p class="text">Figma</p>
+            </li>
+            <li class="list__item">
+              <p class="text">Postman</p>
+            </li>
+            <li class="list__item">
+              <p class="text">VS Code</p>
+            </li>
+          </ul>
+        </section>
+
+        <section class="section section_aside">
+          <h2 class="section-title_aside">Soft Skills</h2>
+          <ul class="list list_aside">
+            <li class="list__item">
+              <p class="text">Detail Oriented</p>
+            </li>
+            <li class="list__item">
+              <p class="text">Self-motivated</p>
+            </li>
+            <li class="list__item">
+              <p class="text">Quick Learner</p>
+            </li>
+          </ul>
+        </section>
+
+        <section class="section section_aside" id="languages">
+          <h2 class="section-title_aside">Languages</h2>
+          <ul class="list list_aside">
+            <li class="list__item">
+              <p class="text">English &#8212; B2</p>
+            </li>
+            <li class="list__item">
+              <p class="text">Belarussian &#8212; Native</p>
+            </li>
+            <li class="list__item">
+              <p class="text">Russian &#8212; Native</p>
+            </li>
+            <li class="list__item">
+              <p class="text">Spanish &#8212; A1</p>
+            </li>
+          </ul>
+        </section>
+
+        <section class="section section_aside">
+          <h2 class="section-title_aside" id="about-me">About me</h2>
+          <p class="text text_about">
+            I'm a junior frontend developer. Have a strong desire to learn and
+            discover new things and implement them to my projects. Specialize in
+            building user friendly and semantic websites that are highly
+            intuitive and accessible. Passionate about writing dynamic
+            functional and clean code.
+          </p>
+        </section>
+      </aside>
+
+      <main class="main">
+        <h1 class="main__title">Sergey Ladorski</h1>
+        <p class="text text_main">Frontend Developer</p>
+
+        <section class="section" id="experience">
+          <h2 class="section-title section-title_main">Experience</h2>
+
+          <h3 class="section-subtitle section-subtitle_main">
+            Frontend Developer (Apprenticeship)
+          </h3>
+          <p class="text text_main">Yandex.Practicum</p>
+          <p class="text text_main">Jul 2021 - Apr 2022</p>
+
+          <h3 class="section-subtitle section-subtitle_main">
+            Control Room Operator
+          </h3>
+          <p class="text text_main">Belarussian Steel Works</p>
+          <p class="text text_main">May 2012 - Present</p>
+        </section>
+
+        <section class="section" id="education">
+          <h2 class="section-title section-title_main">Education</h2>
+
+          <h3 class="section-subtitle section-subtitle_main">
+            Standardization, Metrology and Informational Technology
+          </h3>
+          <p class="text text_main">
+            Belarussian National Technical University
+          </p>
+          <p class="text text_main">Sep 2012 - Jan 2017</p>
+
+          <h3 class="section-subtitle section-subtitle_main">
+            Metallurgical Production and Material Processing
+          </h3>
+          <p class="text text_main">Zhlobin Metallurgical College</p>
+          <p class="text text_main">Sep 2008 - Jun 2012</p>
+        </section>
+
+        <section class="section" id="code">
+          <h2 class="section-title section-title_main">Code</h2>
+          <details class="code">
+            <summary class="code__summary">Code example</summary>
+            <pre>
+                <code class="code__example" data-language="javascript">
+                    const result = [];
+                    
+                    multiplicationTable = function (size) {
+                      for (let i = 0; i &lt; size; i++) {
+                          result[i] = [];
+
+                          for (let j = 0; j &lt; size; j++) {
+                              result[i][j] = (i + 1) * (j + 1);
+                            }};
+
+                            return result;
+                  };
+
+                  multiplicationTable(5);
+                  console.log(result);
+
+                  // [
+                  // [ 1, 2, 3, 4, 5 ],
+                  // [ 2, 4, 6, 8, 10 ],
+                  // [ 3, 6, 9, 12, 15 ],
+                  // [ 4, 8, 12, 16, 20 ],
+                  // [ 5, 10, 15, 20, 25 ]
+                  // ]
+                </code>
+            </pre>
+          </details>
+        </section>
+
+        <section class="section" id="portfolio">
+          <h2 class="section-title section-title_main">Portfolio</h2>
+          <ul class="list portfolio">
+            <li class="list__item">
+              <figure class="portfolio__item">
+                <a
+                  class="link_portfolio link"
+                  href="https://github.com/sergeyladorski/react-mesto-api-full"
+                >
+                  <img class="portfolio__image" src="./images/portfolio/mesto-react.png" alt="preview image" />
+                </a>
+                <figcaption class="portfolio__image-caption">Mesto (React + Node.js)</figcaption>
+              </figure>
+            </li>
+
+            <li class="list__item">
+              <figure class="portfolio__item">
+                <a
+                  class="link_portfolio link"
+                  href="https://github.com/sergeyladorski/picture-finder"
+                >
+                  <img class="portfolio__image" src="./images/portfolio/picture-finder.png" alt="preview image" />
+                </a>
+                <figcaption class="portfolio__image-caption">Picture finder</figcaption>
+              </figure>
+            </li>
+
+            <li class="list__item">
+              <figure class="portfolio__item">
+                <a
+                  class="link_portfolio link"
+                  href="https://github.com/sergeyladorski/mesto"
+                >
+                  <img class="portfolio__image" src="./images/portfolio/mesto-js.png" alt="preview image" />
+                </a>
+                <figcaption class="portfolio__image-caption">Mesto (JS)</figcaption>
+              </figure>
+            </li>
+
+            <li class="list__item">
+              <figure class="portfolio__item">
+                <a
+                  class="link_portfolio link"
+                  href="https://github.com/sergeyladorski/russian-travel"
+                >
+                  <img class="portfolio__image" src="./images/portfolio/russian-travel.png" alt="preview image" />
+                </a>
+                <figcaption class="portfolio__image-caption">Russian travel</figcaption>
+              </figure>
+            </li>
+
+            <li class="list__item">
+              <figure class="portfolio__item">
+                <a
+                  class="link_portfolio link"
+                  href="https://github.com/sergeyladorski/how-to-learn"
+                >
+                  <img class="portfolio__image" src="./images/portfolio/how-to-learn.png" alt="preview image" />
+                </a>
+                <figcaption class="portfolio__image-caption">How to learn</figcaption>
+              </figure>
+            </li>
+          </ul>
+        </section>
+      </main>
+    </div>
+
+    <footer class="footer">
+      <a
+        class="link link_footer"
+        href="https://github.com/sergeyladorski"
+      >
+        <img
+          class="icon icon_footer"
+          src="./images/icons/github.svg"
+          alt="GitHub"
+        />
+      </a>
+      <span class="footer__created-year"> 2022 </span>
+
+      <a
+        class="link link_footer link__logo"
+        href="https://rs.school/js/"
+      >
+        <img
+          class="logo"
+          src="./images/rs-school-js-logo.svg"
+          alt="RS School"
+        />
+      </a>
+    </footer>
+  </body>
 </html>

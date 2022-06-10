@@ -43,7 +43,7 @@ _____
 
 _____
 
-## Portfolio:
+## Portfolio
 * Mesto (React + Node.js)
     - https://github.com/sergeyladorski/react-mesto-api-full;
 * Picture finder
