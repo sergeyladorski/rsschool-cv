@@ -46,7 +46,7 @@
 .link_portfolio {
   color: var(--dark-color);
 }
-.portfolio__image:hover {
+.link_portfolio .portfolio__image:hover {
   transform: scale(1.05);
   filter: drop-shadow(5px 5px 10px #000);
   transition: all 0.3s ease-in;
