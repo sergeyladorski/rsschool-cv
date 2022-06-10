@@ -29,7 +29,7 @@
     May 2012 - Present.
 ===
 
-## Portfolio:
+## Portfolio
 * Mesto (React + Node.js)
     - https://github.com/sergeyladorski/react-mesto-api-full;
 * Picture finder
