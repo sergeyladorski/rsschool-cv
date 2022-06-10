@@ -1,7 +1,7 @@
 /*vendor*/
-@import url(../vendor/normalize.css);
+@import url(./vendor/normalize.css);
 /*fonts*/
-@import url(../vendor/fonts/fonts.css);
+@import url(./vendor/fonts/fonts.css);
 /*page*/
 :root {
   --dark-color: #404040;
