@@ -46,6 +46,11 @@
 .link_portfolio {
   color: var(--dark-color);
 }
+.portfolio__image:hover {
+  transform: scale(1.05);
+  filter: drop-shadow(5px 5px 10px #000);
+  transition: all 0.3s ease-in;
+}
 .link_footer:hover {
   opacity: 0.5;
 }
@@ -158,7 +163,10 @@
   background-size: cover;
 }
 /* code */
-.code {
+.code__summary {
+  cursor: pointer;
+}
+.code__example {
   border: 1px solid var(--span-color);
   display: block;
   box-sizing: border-box;
