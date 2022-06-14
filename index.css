@@ -17,8 +17,9 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  max-width: 1280px;
+  max-width: 1600px;
   width: 100%;
+  min-height: 100vh;
   font-family: "Inter", Arial, Helvetica, sans-serif;
   font-style: normal;
 }
@@ -26,14 +27,15 @@
 .header {
   width: 100%;
   display: flex;
-  justify-content: center;
+  justify-content: flex-end;
   box-sizing: border-box;
   padding: 20px 50px;
   background: var(--dark-color);
 }
 /* link */
 .link {
-  width: min-content;
+  width: max-content;
+  font-size: 14px;
   line-height: 1.2;
   font-weight: 400;
   text-decoration: none;
@@ -80,25 +82,28 @@
   display: grid;
   grid-template-columns: repeat(3, max-content);
 }
-.portfolio {
+.list_portfolio {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: repeat(2, 1fr);
-  gap: 60px 20px;
+  gap: 60px 30px;
 }
-.portfolio__item {
+.list__item_portfolio {
   width: 100%;
   height: 250px;
   margin: 0;
 }
-.portfolio__image {
+.portfolio-image {
   width: 100%;
   height: 100%;
   object-fit: cover;
   object-position: top;
 }
-.portfolio__image-caption {
+.portfolio-image__caption {
   margin-top: 20px;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.2;
 }
 /* content */
 .content {
@@ -106,8 +111,8 @@
   display: grid;
   grid-template-columns: 370px 1fr;
   background: var(--light-color);
-  border-top: 1px solid var(--span-color);
-  border-bottom: 1px solid var(--span-color);
+  border: 1px 0 solid var(--span-color);
+  flex-grow: 1;
 }
 /* aside */
 .aside {
@@ -143,13 +148,16 @@
 .section_aside {
   box-sizing: border-box;
 }
+.section-title {
+  color: var(--dark-color);
+  font-weight: 900;
+  line-height: 1.4;
+  font-size: 22px;
+}
 .section-title_aside {
   margin: 30px 0;
   padding-left: 50px;
   background: var(--light-color);
-  color: var(--dark-color);
-  font-weight: 500;
-  line-height: 1.4;
   position: relative;
 }
 .section-title_aside::before {
@@ -162,7 +170,16 @@
   background: var(--span-color);
   background-size: cover;
 }
+.section-subtitle {
+  font-weight: 500;
+  font-size: 18px;
+}
 /* code */
+.code {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.2;
+}
 .code__summary {
   cursor: pointer;
 }
@@ -176,12 +193,13 @@
 /* text */
 .text {
   margin: 0;
+  font-size: 14px;
   line-height: 1.2;
   font-weight: 400;
 }
 .text_about {
-  margin: 0;
   padding: 0 20px 0 50px;
+  line-height: 2;
 }
 /* footer */
 .footer {
@@ -193,6 +211,7 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   align-items: center;
+  flex-shrink: 0;
 }
 .footer__created-year {
   justify-self: center;
