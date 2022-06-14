@@ -1,24 +1,27 @@
 # Sergey Ladorski
 ## Junior Frontend Developer
-[![Sergey Ladorski](https://avatars.githubusercontent.com/u/87638252?v=4)](https://github.com/sergeyladorski)
-===
+[![Sergey Ladorski](https://avatars.githubusercontent.com/u/87638252?v=4)](https://github.com/sergeyladorski)  
+
+_____
 
 ## Contact information
 - Phone:  *+375297222536*
 - E-mail:    *sergeyladorski@gmail.com*
 - Telegram: *[sergeyladorski](https://t.me/sergeyladorski)*
 - LinkedIn: *[sergeyladorski](https://www.linkedin.com/in/sergeyladorski)*
-- RS School discrord server nickname: *Sergey Ladorski @sergeyladorski*
-===
+- RS School discrord server nickname: *Sergey Ladorski @sergeyladorski*  
 
-## Hard skills
+_____
+
+## Skills
 * Frontend
     - HTML, CSS, JavaScript, React.js, Redux;
 * Backend
     - Node.js, Express.js, MongoDB;
 * Additional
-    - ES Lint, Git, Figma, Postman, VS Code, NPM, Webpack.
-===
+    - ES Lint, Git, Figma, Postman, VS Code, NPM, Webpack.  
+
+_____
 
 ## Work experience
 * Frontend Developer (Apprenticeship)
@@ -26,8 +29,19 @@
     Jul 2021 - Apr 2022;
 * Control Room Operator
     at Belarussian Steel Works
-    May 2012 - Present.
-===
+    May 2012 - Present.  
+
+_____
+
+## Education
+* Standardization, Metrology and Informational Technology
+    at Belarussian National Technical University
+    Sep 2012 - Jan 2017;
+* Metallurgical Production and Material Processing
+    at Zhlobin Metallurgical College
+    Sep 2008 - Jun 2012.  
+
+_____
 
 ## Portfolio
 * Mesto (React + Node.js)
@@ -39,24 +53,17 @@
 * Russian travel
     - https://github.com/sergeyladorski/russian-travel;
 * How to learn
-    - https://github.com/sergeyladorski/how-to-learn.
-===
+    - https://github.com/sergeyladorski/how-to-learn.  
 
-## Education
-* Standardization, Metrology and Informational Technology
-    at Belarussian National Technical University
-    Sep 2012 - Jan 2017;
-* Metallurgical Production and Material Processing
-    at Zhlobin Metallurgical College
-    Sep 2008 - Jun 2012.
-===
+_____
 
 ## Languages
-* `English` -  C1 Reading, Listening; B2 Writing, Speaking;
-[!EFSET English Certificate 70/100](https://cdn.efset.org/efset-widget/img/certificate_70.png)](https://www.efset.org/cert/bn49LC)
+* `English` - [EFSET English Certificate](https://www.efset.org/cert/bn49LC)  
+C1 Reading, Listening; B2 Writing, Speaking;
 * `Belarussian` - Native;
-* `Russian` - Native.
-===
+* `Russian` - Native.  
+
+_____
 
 ## About
 I'm a junior frontend developer.  
