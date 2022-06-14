@@ -1,0 +1,218 @@
+/*vendor*/
+@import url(./vendor/normalize.css);
+/*fonts*/
+@import url(./vendor/fonts/fonts.css);
+/*page*/
+:root {
+  --dark-color: #404040;
+  --medium-color: #999999;
+  --light-color: #e6e6e6;
+  --span-color: #d6a34a;
+  --filter-color: invert(66%) sepia(45%) saturate(547%) hue-rotate(360deg)
+    brightness(94%) contrast(86%);
+  /* svg filter https://codepen.io/sosuke/pen/Pjoqqp */
+}
+.body {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 1600px;
+  width: 100%;
+  min-height: 100vh;
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+  font-style: normal;
+}
+/* header */
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  box-sizing: border-box;
+  padding: 20px 50px;
+  background: var(--dark-color);
+}
+/* link */
+.link {
+  width: max-content;
+  font-size: 14px;
+  line-height: 1.2;
+  font-weight: 400;
+  text-decoration: none;
+  color: var(--light-color);
+}
+.link:hover {
+  color: var(--span-color);
+  transition: 0.3s ease-in;
+}
+.link_portfolio {
+  color: var(--dark-color);
+}
+.link_portfolio .portfolio__image:hover {
+  transform: scale(1.05);
+  filter: drop-shadow(5px 5px 10px #000);
+  transition: all 0.3s ease-in;
+}
+.link_footer:hover {
+  opacity: 0.5;
+}
+.link__logo {
+  justify-self: end;
+}
+/* list */
+.list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 20px;
+}
+.list__item {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.list_aside {
+  display: flex;
+  gap: 20px;
+  padding: 0 20px 0 50px;
+  flex-direction: column;
+}
+.list_hard-skills {
+  display: grid;
+  grid-template-columns: repeat(3, max-content);
+}
+.list_portfolio {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 60px 30px;
+}
+.list__item_portfolio {
+  width: 100%;
+  height: 250px;
+  margin: 0;
+}
+.portfolio-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top;
+}
+.portfolio-image__caption {
+  margin-top: 20px;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+/* content */
+.content {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 370px 1fr;
+  background: var(--light-color);
+  border: 1px 0 solid var(--span-color);
+  flex-grow: 1;
+}
+/* aside */
+.aside {
+  background: var(--dark-color);
+  color: var(--light-color);
+  box-sizing: border-box;
+  border-right: 1px solid var(--span-color);
+  padding-bottom: 20px;
+}
+.aside__photo {
+  width: 100%;
+}
+/* main */
+.main {
+  padding: 20px 50px;
+  color: var(--dark-color);
+}
+/* icon */
+.icon {
+  width: 24px;
+  height: 24px;
+  filter: var(--filter-color);
+}
+.icon_footer {
+  width: 40px;
+  height: 40px;
+}
+.logo {
+  filter: var(--filter-color);
+  height: 40px;
+}
+/* section */
+.section_aside {
+  box-sizing: border-box;
+}
+.section-title {
+  color: var(--dark-color);
+  font-weight: 900;
+  line-height: 1.4;
+  font-size: 22px;
+}
+.section-title_aside {
+  margin: 30px 0;
+  padding-left: 50px;
+  background: var(--light-color);
+  position: relative;
+}
+.section-title_aside::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 30px;
+  background: var(--span-color);
+  background-size: cover;
+}
+.section-subtitle {
+  font-weight: 500;
+  font-size: 18px;
+}
+/* code */
+.code {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.2;
+}
+.code__summary {
+  cursor: pointer;
+}
+.code__example {
+  border: 1px solid var(--span-color);
+  display: block;
+  box-sizing: border-box;
+  padding-right: 20px;
+  width: min-content;
+}
+/* text */
+.text {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.2;
+  font-weight: 400;
+}
+.text_about {
+  padding: 0 20px 0 50px;
+  line-height: 2;
+}
+/* footer */
+.footer {
+  background: var(--dark-color);
+  color: var(--light-color);
+  width: 100%;
+  box-sizing: border-box;
+  padding: 20px 50px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  align-items: center;
+  flex-shrink: 0;
+}
+.footer__created-year {
+  justify-self: center;
+}
